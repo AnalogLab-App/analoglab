@@ -53,6 +53,10 @@ Get-FileHash .\AnalogLab-1.1.2.apk -Algorithm SHA256
 
 Приложение ничего не собирает и никуда не отправляет. Камера нужна только для замера света на самом телефоне, кадры не сохраняются. Подробности: [политика конфиденциальности](https://telegra.ph/Politika-konfidencialnosti-AnalogLab-10-07).
 
+## Поддержать автора
+
+Приложение бесплатное и останется таким. Если оно пригодилось и хочется сказать спасибо, можно отправить любую сумму через [CloudTips](https://pay.cloudtips.ru/p/350fcc89). Никакие функции от этого не открываются.
+
 ## Вопросы и ошибки
 
 Если что-то работает не так, напиши во вкладке [Issues](../../issues): укажи модель телефона, версию Android и что делал.
@@ -73,3 +77,5 @@ No ads, no sign-up, and no internet: the app has no network permission, and all 
 **Install:** Android 8.0 or newer. Download the latest `.apk` from [Releases](../../releases), open it, and allow installing from this source if asked. If Google Play Protect warns about an unknown developer, choose "More details" and "Install anyway".
 
 **Privacy:** the app collects and sends nothing. See the [privacy policy](https://telegra.ph/AnalogLab-Privacy-Policy-10-07).
+
+**Support:** the app is free and will stay free. If it is useful to you, you can send any amount via [CloudTips](https://pay.cloudtips.ru/p/350fcc89). Nothing is unlocked by donating.
